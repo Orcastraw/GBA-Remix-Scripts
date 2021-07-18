@@ -1,0 +1,1 @@
+emuhawk.exe --lua=%~dp0\visor.lua  %~dp0\titles/8Moogame.gba
